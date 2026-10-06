@@ -17,3 +17,5 @@ Tudo está em `index.html`, dividido por seções comentadas. Os dados do case G
 `css/style.css`, bloco `:root` no topo (`--red` é o vermelho de destaque, `--bg` o fundo).
 ## 7. Configurar domínio
 Na plataforma escolhida, adicione o domínio (Domains / Custom domain) e aponte no seu registrador os registros indicados (A para o domínio raiz e CNAME para `www`). Aguarde a propagação e ative o HTTPS. Depois atualize `og:image` com a URL completa e, se quiser, crie um `sitemap.xml`.
+## 8. Página web
+https://bruno-mkti.github.io/web-portfolio-concessionarias/
